@@ -24,8 +24,7 @@ A focused React + TypeScript project built with **Vite**, designed to practice f
 
 ## 📁 Folder Structure
 
-src/ ├── components/        # UserList component for displaying fetched data ├── hooks/             # useFetch.ts – custom hook for API calls ├── assets/            # Icons and images ├── App.tsx            # Main app logic ├── main.tsx           # Entry point └── index.css          # Tailwind base styles
-
+src/ ├── components/     # UserList component for displaying fetched data ├── hooks/  # useFetch.ts – custom hook for API calls ├── assets/   # Icons and images ├── App.tsx      # Main app logic ├── main.tsx      # Entry point └── index.css       # Tailwind base styles
 
 ---
 
